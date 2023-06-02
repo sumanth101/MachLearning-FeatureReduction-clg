@@ -1,1 +1,1 @@
-Problem Statement - For a given binary class dataset, apply any traditional ML algorithm. Use two feature reduction techniques – Correlation coefficient and LDA to reduce the dimensions of the dataset. Apply the same ML algorithm and analyze the results.
+Problem Statement - For a given binary class dataset, apply any traditional ML algorithm. Use two feature reduction techniques – Correlation coefficient and LDA to reduce the dimensions of the dataset. Apply the same ML algorithm and analyze the result.
